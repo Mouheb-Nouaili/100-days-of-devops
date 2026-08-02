@@ -17,3 +17,5 @@ the problems I hit, and what I learned.
 | Day | Topic |
 |-----|-------|
 | [001](days/day001.sh) | Linux User Setup with Non-Interactive Shell |
+| [002](days/day002.sh) | Temporary User Setup with Expiry |
+
