@@ -18,4 +18,5 @@ the problems I hit, and what I learned.
 |-----|-------|
 | [001](days/day001.md) | Linux User Setup with Non-Interactive Shell |
 | [002](days/day002.md) | Temporary User Setup with Expiry |
+| [003](days/day003.md) | Disable Direct Root SSH Login |
 
