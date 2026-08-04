@@ -1,4 +1,4 @@
-# 100 Days of DevOps
+*# 100 Days of DevOps
 
 A daily challenge to learn DevOps by doing.
 
@@ -8,7 +8,7 @@ the problems I hit, and what I learned.
 
 ## Structure
 
-- `days/dayNNN.sh` : the notes and commands for that day
+- `days/dayNNN.md` : the notes and commands for that day
 - `days/dayNNN/` : a folder instead, when the day produced real files (Dockerfile, manifests, ...)
 - `new-day.sh` : scaffolds the file for a new day
 
